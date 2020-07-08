@@ -1,9 +1,0 @@
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\bin\Debug\netcoreapp3.1\HttpClientHelper.Lib.deps.json
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\bin\Debug\netcoreapp3.1\HttpClientHelper.Lib.dll
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\bin\Debug\netcoreapp3.1\HttpClientHelper.Lib.pdb
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\obj\Debug\netcoreapp3.1\HttpClientHelper.Lib.csprojAssemblyReference.cache
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\obj\Debug\netcoreapp3.1\HttpClientHelper.Lib.AssemblyInfoInputs.cache
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\obj\Debug\netcoreapp3.1\HttpClientHelper.Lib.AssemblyInfo.cs
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\obj\Debug\netcoreapp3.1\HttpClientHelper.Lib.dll
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\obj\Debug\netcoreapp3.1\HttpClientHelper.Lib.pdb
-C:\Users\tegra\source\repos\httpHelper2\HttpClientHelper\src\HttpClientHelper.Lib\obj\Debug\netcoreapp3.1\HttpClientHelper.Lib.csproj.CoreCompileInputs.cache

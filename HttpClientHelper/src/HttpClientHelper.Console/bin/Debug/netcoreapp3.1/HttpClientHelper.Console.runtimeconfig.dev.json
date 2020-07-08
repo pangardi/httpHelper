@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\tegra\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\tegra\\.nuget\\packages"
-    ]
-  }
-}
