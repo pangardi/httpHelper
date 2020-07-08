@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientHelper.Lib", "src\HttpClientHelper.Lib\HttpClientHelper.Lib.csproj", "{785688C5-D6D7-4E83-A22C-8EF096851510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientHelper.Console", "src\HttpClientHelper.Console\HttpClientHelper.Console.csproj", "{E1C83EA8-4817-41FA-9367-11697CA99E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785688C5-D6D7-4E83-A22C-8EF096851510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785688C5-D6D7-4E83-A22C-8EF096851510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785688C5-D6D7-4E83-A22C-8EF096851510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785688C5-D6D7-4E83-A22C-8EF096851510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C83EA8-4817-41FA-9367-11697CA99E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C83EA8-4817-41FA-9367-11697CA99E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C83EA8-4817-41FA-9367-11697CA99E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C83EA8-4817-41FA-9367-11697CA99E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01F0CEB1-EE1F-43D8-8237-2A6FB9D0AE3B}
+	EndGlobalSection
+EndGlobal
